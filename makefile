@@ -1,5 +1,5 @@
-update-doc:
+update_doc:
 	mix docs
 
-view-doc:
+view_doc:
 	cd doc && open index.html
